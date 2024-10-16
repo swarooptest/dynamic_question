@@ -2,3 +2,4 @@ python-fasthtml
 pydantic
 openai
 python-dotenv
+gunicorn
